@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DevIntensive</string>
+    <string name="green_button">Green button</string>
+    <string name="blue_button">Blue Button</string>
 </resources>
